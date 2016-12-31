@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a Maryland fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a Maryland fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a Maryland fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a Maryland trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a Maryland trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some Maryland information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
