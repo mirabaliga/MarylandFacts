@@ -1,4 +1,7 @@
 # MarylandFacts
+
+Link to app on Amazon.com: https://www.amazon.com/Mira-Baliga-Maryland-Facts/dp/B01N6M0YJ0/ref=nav_signin?s=digital-skills&ie=UTF8&qid=1502131485&sr=1-1&keywords=maryland+facts&
+
 Maryland Facts! is an Amazon Alexa Skill developed by Mira Baliga. When prompted by the user, it tells them a random Maryland fact. Use it to learn more about this amazing state and impress your friends with cool trivia!
 Interested in using Maryland Facts but don't have an Amazon device? No problem! You can use the online Amazon Skill testing console to do so. Here's what you do:
 1. Log on to alexa.amazon.com using your Amazon account and search for "Maryland Facts!" Alternately, click on this link to take you directly to the app: http://alexa.amazon.com/spa/index.html#skills/dp/B01N6M0YJ0/?ref=skill_dsk_skb_sr_1
